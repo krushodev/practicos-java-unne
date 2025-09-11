@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=EjecutablePunto
+comment0.text=\r\n\ Clase\ ejecutable\ para\ probar\ la\ funcionalidad\ de\ la\ clase\ Punto.\r\n\ Crea\ un\ punto\ a\ partir\ de\ argumentos\ de\ l\u00EDnea\ de\ comandos,\ lo\ desplaza\ \r\n\ y\ muestra\ sus\ coordenadas.\r\n\r\n\ @author\ Kruchowski,\ Juan\ Ignacio\r\n\ @version\ 1.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ M\u00E9todo\ principal\ que\ inicia\ la\ ejecuci\u00F3n.\r\n\ @param\ args\ Argumentos\ de\ la\ l\u00EDnea\ de\ comandos.\ Se\ espera\ dos\ argumentos\:\r\n\ args[0]\:\ Valor\ para\ la\ coordenada\ X\ (decimal).\r\n\ args[1]\:\ Valor\ para\ la\ coordenada\ Y\ (decimal).\r\n
+numComments=2

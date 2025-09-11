@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=OrdenVector
+comment0.text=\r\n\ Clase\ que\ maneja\ un\ vector\ de\ n\u00FAmeros\ de\ tipo\ double.\r\n\ Lee\ una\ cantidad\ fija\ de\ elementos,\ encuentra\ el\ menor\ de\ ellos,\r\n\ ordena\ el\ vector\ de\ menor\ a\ mayor\ y\ muestra\ los\ resultados.\r\n\r\n\ @author\ Kruchowski,\ Juan\ Ignacio\r\n\ @version\ 1.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ M\u00E9todo\ principal\ del\ programa.\r\n\ Primero,\ solicita\ al\ usuario\ 4\ elementos\ num\u00E9ricos,\ los\ almacena\ en\ un\r\n\ array\ y\ encuentra\ el\ menor\ valor\ durante\ la\ entrada.\r\n\ Despu\u00E9s,\ utiliza\ el\ algoritmo\ de\ ordenamiento\ de\ burbuja\ (Bubble\ Sort)\r\n\ para\ ordenar\ el\ array.\ Finalmente,\ imprime\ el\ menor\ elemento\ encontrado\r\n\ y\ el\ array\ ya\ ordenado.\r\n\r\n\ @param\ args\ Argumentos\ de\ la\ l\u00EDnea\ de\ comandos\ (no\ utilizados).\r\n
+numComments=2

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=OperarVector
+comment0.text=\r\n\ Clase\ que\ realiza\ operaciones\ b\u00E1sicas\ sobre\ un\ vector\ (array)\ de\ notas\ de\ alumnos.\r\n\ Permite\ ingresar\ un\ n\u00FAmero\ fijo\ de\ notas,\ y\ luego\ calcula\ el\ promedio\ y\r\n\ encuentra\ la\ nota\ m\u00E1s\ alta.\r\n\r\n\ @author\ Kruchowski,\ Juan\ Ignacio\r\n\ @version\ 1.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ M\u00E9todo\ principal\ que\ gestiona\ la\ entrada\ de\ datos\ y\ los\ c\u00E1lculos.\r\n\ El\ programa\ solicita\ al\ usuario\ que\ ingrese\ 5\ notas.\ Mientras\ las\ ingresa,\r\n\ calcula\ la\ suma\ total\ y\ determina\ la\ mayor\ nota.\ Finalmente,\ muestra\r\n\ todas\ las\ notas,\ el\ promedio\ y\ la\ mayor\ nota\ registrada.\r\n\r\n\ @param\ args\ Argumentos\ de\ la\ l\u00EDnea\ de\ comandos\ (no\ utilizados).\r\n
+numComments=2

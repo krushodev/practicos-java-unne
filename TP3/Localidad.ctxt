@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Localidad
+comment0.text=\r\n\ Representa\ una\ Localidad\ con\ su\ nombre\ y\ la\ provincia\ a\ la\ que\ pertenece.\r\n\r\n\ @author\ Kruchowski,\ Juan\ Ignacio\r\n\ @version\ 1.0\r\n
+comment1.params=p_nombre\ p_provincia
+comment1.target=Localidad(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ para\ crear\ un\ objeto\ Localidad.\r\n\ @param\ p_nombre\ Nombre\ de\ la\ localidad.\r\n\ @param\ p_provincia\ Nombre\ de\ la\ provincia.\r\n
+comment2.params=p_nombre
+comment2.target=void\ setNombre(java.lang.String)
+comment2.text=Asigna\ el\ nombre\ de\ la\ localidad.\ @param\ p_nombre\ Nombre\ a\ asignar.
+comment3.params=p_provincia
+comment3.target=void\ setProvincia(java.lang.String)
+comment3.text=Asigna\ el\ nombre\ de\ la\ provincia.\ @param\ p_provincia\ Provincia\ a\ asignar.
+comment4.params=
+comment4.target=java.lang.String\ getNombre()
+comment4.text=@return\ Devuelve\ el\ nombre\ de\ la\ localidad.
+comment5.params=
+comment5.target=java.lang.String\ getProvincia()
+comment5.text=@return\ Devuelve\ el\ nombre\ de\ la\ provincia.
+comment6.params=
+comment6.target=java.lang.String\ mostrar()
+comment6.text=\r\n\ Devuelve\ un\ String\ con\ los\ datos\ de\ la\ localidad\ formateados.\r\n\ @return\ Un\ String\ con\ el\ nombre\ de\ la\ localidad\ y\ la\ provincia.\r\n
+numComments=7

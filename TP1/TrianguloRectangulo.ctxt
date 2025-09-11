@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TrianguloRectangulo
+comment0.text=\r\n\ Clase\ que\ determina\ si\ un\ tri\u00E1ngulo\ es\ rect\u00E1ngulo\ dadas\ las\ longitudes\ de\ sus\r\n\ tres\ lados.\r\n\r\n\ @author\ Kruchowski,\ Juan\ Ignacio\r\n\ @version\ 1.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ M\u00E9todo\ principal\ del\ programa.\r\n\ Recibe\ la\ longitud\ de\ la\ hipotenusa\ y\ los\ dos\ catetos\ como\ argumentos\r\n\ de\ la\ l\u00EDnea\ de\ comandos.\ Aplica\ el\ Teorema\ de\ Pit\u00E1goras\ para\ verificar\ si\r\n\ el\ cuadrado\ de\ la\ hipotenusa\ es\ igual\ a\ la\ suma\ de\ los\ cuadrados\ de\ los\ catetos.\r\n\r\n\ @param\ args\ Array\ de\ strings.\ Se\ espera\ que\ args[0]\ sea\ la\ hipotenusa,\r\n\ args[1]\ el\ primer\ cateto\ y\ args[2]\ el\ segundo\ cateto.\r\n
+numComments=2

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Circunferencia
+comment0.text=\r\n\ Clase\ que\ calcula\ el\ per\u00EDmetro\ (longitud)\ de\ una\ circunferencia\r\n\ a\ partir\ de\ un\ radio\ proporcionado.\r\n\r\n\ @author\ Kruchowski,\ Juan\ Ignacio\r\n\ @version\ 1.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Punto\ de\ entrada\ del\ programa.\r\n\ Lee\ el\ radio\ de\ la\ circunferencia\ desde\ los\ argumentos\ de\ la\ l\u00EDnea\ de\ comandos,\r\n\ calcula\ su\ per\u00EDmetro\ usando\ la\ f\u00F3rmula\ 2\ *\ PI\ *\ radio\ y\ muestra\r\n\ el\ resultado\ en\ la\ consola.\r\n\r\n\ @param\ args\ Un\ array\ de\ strings\ que\ contiene\ los\ argumentos\ de\ la\ l\u00EDnea\ de\ comandos.\r\n\ Se\ espera\ que\ args[0]\ contenga\ el\ valor\ del\ radio\ como\ un\ n\u00FAmero\ entero.\r\n
+numComments=2

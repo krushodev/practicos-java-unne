@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Hospital
+comment0.text=\r\n\ Representa\ un\ Hospital\ con\ su\ nombre\ y\ el\ nombre\ de\ su\ director.\r\n\r\n\ @author\ Kruchowski,\ Juan\ Ignacio\r\n\ @version\ 1.0\r\n
+comment1.params=p_nombreHospital\ p_nombreDirector
+comment1.target=Hospital(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ para\ crear\ un\ objeto\ Hospital.\r\n\ @param\ p_nombreHospital\ Nombre\ del\ hospital.\r\n\ @param\ p_nombreDirector\ Nombre\ del\ director\ del\ hospital.\r\n
+comment2.params=p_nombreHospital
+comment2.target=void\ setNombreHospital(java.lang.String)
+comment2.text=Asigna\ el\ nombre\ del\ hospital.\ @param\ p_nombreHospital\ Nombre\ a\ asignar.
+comment3.params=p_nombreDirector
+comment3.target=void\ setNombreDirector(java.lang.String)
+comment3.text=Asigna\ el\ nombre\ del\ director.\ @param\ p_nombreDirector\ Nombre\ a\ asignar.
+comment4.params=
+comment4.target=java.lang.String\ getNombreHospital()
+comment4.text=@return\ Devuelve\ el\ nombre\ del\ hospital.
+comment5.params=
+comment5.target=java.lang.String\ getNombreDirector()
+comment5.text=@return\ Devuelve\ el\ nombre\ del\ director.
+comment6.params=p_paciente
+comment6.target=void\ consultaDatosFiliatorios(Paciente)
+comment6.text=\r\n\ Muestra\ por\ consola\ los\ datos\ filiatorios\ de\ un\ paciente,\ precedidos\ por\ los\ datos\ del\ hospital.\r\n\ @param\ p_paciente\ El\ paciente\ cuyos\ datos\ se\ van\ a\ consultar.\r\n
+numComments=7

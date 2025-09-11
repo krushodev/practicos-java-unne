@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Multiplo
+comment0.text=\r\n\ Clase\ dise\u00F1ada\ para\ encontrar\ e\ imprimir\ los\ m\u00FAltiplos\ de\ un\ n\u00FAmero\ espec\u00EDfico\r\n\ dentro\ de\ un\ rango\ determinado.\r\n\r\n\ @author\ Kruchowski,\ Juan\ Ignacio\r\n\ @version\ 1.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ El\ m\u00E9todo\ principal\ del\ programa.\r\n\ Itera\ a\ trav\u00E9s\ de\ un\ rango\ de\ n\u00FAmeros\ (del\ 42\ al\ 150)\ y\ comprueba\ si\ cada\r\n\ n\u00FAmero\ es\ m\u00FAltiplo\ de\ 4.\ Si\ lo\ es,\ lo\ imprime\ en\ la\ consola.\r\n\r\n\ @param\ args\ Argumentos\ de\ la\ l\u00EDnea\ de\ comandos\ (no\ se\ utilizan\ en\ este\ programa).\r\n
+numComments=2

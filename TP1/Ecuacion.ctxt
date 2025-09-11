@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Ecuacion
+comment0.text=\r\n\ Clase\ que\ resuelve\ una\ ecuaci\u00F3n\ de\ segundo\ grado\ de\ la\ forma\ ax^2\ +\ bx\ +\ c\ \=\ 0.\r\n\ Utiliza\ la\ f\u00F3rmula\ cuadr\u00E1tica\ para\ encontrar\ las\ ra\u00EDces\ reales\ de\ la\ ecuaci\u00F3n.\r\n\r\n\ @author\ Kruchowski,\ Juan\ Ignacio\r\n\ @version\ 1.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Punto\ de\ entrada\ del\ programa.\r\n\ Recibe\ los\ coeficientes\ 'a',\ 'b'\ y\ 'c'\ como\ argumentos\ de\ la\ l\u00EDnea\ de\ comandos.\r\n\ Calcula\ el\ discriminante\ para\ determinar\ la\ naturaleza\ de\ las\ ra\u00EDces.\r\n\ Muestra\ las\ ra\u00EDces\ si\ son\ reales\ (una\ o\ dos)\ o\ un\ mensaje\ si\ son\ complejas.\r\n\r\n\ @param\ args\ Array\ de\ strings.\ Se\ espera\ que\ args[0],\ args[1]\ y\ args[2]\ contengan\r\n\ los\ valores\ num\u00E9ricos\ para\ los\ coeficientes\ a,\ b\ y\ c,\ respectivamente.\r\n
+numComments=2

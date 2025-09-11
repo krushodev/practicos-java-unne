@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=EjecutableCliente
+comment0.text=\r\n\ Clase\ ejecutable\ para\ probar\ la\ funcionalidad\ de\ la\ clase\ Cliente.\r\n\ Crea\ un\ cliente\ a\ partir\ de\ argumentos\ de\ l\u00EDnea\ de\ comandos,\ \r\n\ realiza\ operaciones\ de\ saldo\ y\ muestra\ los\ resultados.\r\n\r\n\ @author\ Kruchowski,\ Juan\ Ignacio\r\n\ @version\ 1.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ M\u00E9todo\ principal\ que\ inicia\ la\ ejecuci\u00F3n.\r\n\ @param\ args\ Argumentos\ de\ la\ l\u00EDnea\ de\ comandos.\ Se\ esperan\ 4\ argumentos\:\r\n\ args[0]\:\ DNI\ (entero)\r\n\ args[1]\:\ Apellido\ (texto)\r\n\ args[2]\:\ Nombre\ (texto)\r\n\ args[3]\:\ Saldo\ inicial\ (decimal)\r\n
+numComments=2

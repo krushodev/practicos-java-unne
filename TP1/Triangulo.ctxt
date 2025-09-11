@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Triangulo
+comment0.text=\r\n\ Clase\ para\ calcular\ el\ \u00E1rea\ de\ un\ tri\u00E1ngulo\ utilizando\ la\ f\u00F3rmula\ de\ Her\u00F3n,\r\n\ dadas\ las\ longitudes\ de\ sus\ tres\ lados.\r\n\r\n\ @author\ Kruchowski,\ Juan\ Ignacio\r\n\ @version\ 1.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ M\u00E9todo\ principal\ que\ ejecuta\ el\ c\u00E1lculo.\r\n\ Recibe\ las\ longitudes\ de\ los\ tres\ lados\ del\ tri\u00E1ngulo\ como\ argumentos\r\n\ de\ la\ l\u00EDnea\ de\ comandos.\ Calcula\ primero\ el\ semiper\u00EDmetro\ y\ luego\r\n\ utiliza\ la\ f\u00F3rmula\ de\ Her\u00F3n\ para\ encontrar\ el\ \u00E1rea.\r\n\ Imprime\ tanto\ el\ semiper\u00EDmetro\ como\ el\ \u00E1rea\ en\ la\ consola.\r\n\r\n\ @param\ args\ Un\ array\ de\ strings\ que\ contiene\ los\ argumentos\ de\ la\ l\u00EDnea\ de\ comandos.\r\n\ Se\ espera\ que\ args[0],\ args[1]\ y\ args[2]\ contengan\ las\ longitudes\r\n\ de\ los\ lados\ a,\ b\ y\ c,\ respectivamente.\r\n
+numComments=2

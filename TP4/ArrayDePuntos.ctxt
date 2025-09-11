@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ArrayDePuntos
+comment0.text=\r\n\ Clase\ ejecutable\ para\ la\ gesti\u00F3n\ de\ una\ colecci\u00F3n\ de\ objetos\ Punto.\r\n\ El\ programa\ solicita\ al\ usuario\ la\ entrada\ de\ coordenadas\ para\ un\r\n\ conjunto\ predefinido\ de\ puntos,\ los\ almacena\ en\ un\ array\ y,\ posteriormente,\r\n\ itera\ sobre\ la\ colecci\u00F3n\ para\ mostrar\ informaci\u00F3n\ detallada\ de\ cada\ punto\r\n\ y\ la\ distancia\ euclidiana\ entre\ puntos\ consecutivos.\r\n\r\n\ @author\ Kruchowski,\ Juan\ Ignacio\r\n\ @version\ 1.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Punto\ de\ entrada\ principal\ de\ la\ aplicaci\u00F3n.\r\n\ Gestiona\ la\ interacci\u00F3n\ con\ el\ usuario\ para\ la\ creaci\u00F3n\ de\ los\ puntos\r\n\ y\ la\ presentaci\u00F3n\ de\ los\ resultados.\r\n\ @param\ args\ Argumentos\ de\ la\ l\u00EDnea\ de\ comandos\ (no\ se\ utilizan).\r\n
+numComments=2

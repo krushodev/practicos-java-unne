@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Circunferencia2
+comment0.text=\r\n\ Clase\ que\ calcula\ repetidamente\ el\ per\u00EDmetro\ de\ una\ circunferencia.\r\n\ El\ programa\ solicita\ al\ usuario\ que\ ingrese\ un\ valor\ para\ el\ radio\ y\ contin\u00FAa\r\n\ haci\u00E9ndolo\ hasta\ que\ el\ usuario\ decida\ cancelar\ la\ operaci\u00F3n.\r\n\r\n\ @author\ Kruchowski,\ Juan\ Ignacio\r\n\ @version\ 1.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ M\u00E9todo\ principal\ que\ interact\u00FAa\ con\ el\ usuario.\r\n\ Utiliza\ un\ bucle\ `while`\ para\ solicitar\ radios\ y\ calcular\ per\u00EDmetros.\r\n\ El\ bucle\ se\ termina\ cuando\ el\ usuario\ ingresa\ el\ valor\ -1.\r\n\r\n\ @param\ args\ Argumentos\ de\ la\ l\u00EDnea\ de\ comandos\ (no\ utilizados).\r\n
+numComments=2

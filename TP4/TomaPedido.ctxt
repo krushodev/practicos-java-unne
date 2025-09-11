@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TomaPedido
+comment0.text=\r\n\ Clase\ ejecutable\ que\ simula\ una\ interfaz\ de\ consola\ para\ un\ sistema\ de\ toma\ de\ pedidos.\r\n\ El\ flujo\ principal\ incluye\ la\ creaci\u00F3n\ de\ un\ cliente,\ la\ presentaci\u00F3n\ de\ un\ men\u00FA\r\n\ de\ opciones\ para\ interactuar\ con\ un\ pedido,\ y\ la\ gesti\u00F3n\ de\ la\ adici\u00F3n\ de\ productos.\r\n\r\n\ @author\ Kruchowski,\ Juan\ Ignacio\r\n\ @version\ 1.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Punto\ de\ entrada\ principal\ para\ la\ aplicaci\u00F3n\ de\ toma\ de\ pedidos.\r\n\ Inicializa\ los\ datos\ de\ prueba\ (laboratorio,\ productos),\ gestiona\r\n\ la\ creaci\u00F3n\ del\ cliente\ y\ el\ pedido,\ y\ procesa\ las\ opciones\ del\ men\u00FA\r\n\ seleccionadas\ por\ el\ usuario.\r\n\ @param\ args\ Argumentos\ de\ la\ l\u00EDnea\ de\ comandos\ (no\ se\ utilizan).\r\n
+numComments=2
