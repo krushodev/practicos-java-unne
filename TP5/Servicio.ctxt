@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Servicio
+comment0.text=\r\n\ Representa\ un\ servicio\ adicional\ que\ puede\ ser\ contratado\ en\ un\ alojamiento.\r\n\ Contiene\ la\ descripci\u00F3n\ del\ servicio\ y\ su\ precio.\r\n\r\n\ @author\ Kruchowski,\ Juan\ Ignacio\r\n\ @version\ 1.0\r\n
+comment1.params=p_descripcion\ p_precio
+comment1.target=Servicio(java.lang.String,\ double)
+comment1.text=\r\n\ Constructor\ para\ inicializar\ un\ servicio\ con\ su\ descripci\u00F3n\ y\ precio.\r\n\r\n\ @param\ p_descripcion\ Descripci\u00F3n\ del\ servicio.\r\n\ @param\ p_precio\ \ \ \ \ \ Precio\ del\ servicio.\r\n
+comment2.params=p_descripcion
+comment2.target=void\ setDescripcion(java.lang.String)
+comment2.text=\r\n\ Asigna\ la\ descripci\u00F3n\ del\ servicio.\r\n\r\n\ @param\ p_descripcion\ La\ descripci\u00F3n\ a\ asignar.\r\n
+comment3.params=p_precio
+comment3.target=void\ setPrecio(double)
+comment3.text=\r\n\ Asigna\ el\ precio\ del\ servicio.\r\n\r\n\ @param\ p_precio\ El\ precio\ a\ asignar.\r\n
+comment4.params=
+comment4.target=java.lang.String\ getDescripcion()
+comment4.text=\r\n\ Devuelve\ la\ descripci\u00F3n\ del\ servicio.\r\n\r\n\ @return\ La\ descripci\u00F3n\ del\ servicio.\r\n
+comment5.params=
+comment5.target=double\ getPrecio()
+comment5.text=\r\n\ Devuelve\ el\ precio\ del\ servicio.\r\n\r\n\ @return\ El\ precio\ del\ servicio.\r\n
+numComments=6

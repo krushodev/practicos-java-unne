@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MenuEtiqueta
+comment0.text=\r\n\ Clase\ ejecutable\ que\ simula\ un\ men\u00FA\ interactivo\ para\ la\ gesti\u00F3n\ de\ pedidos\ de\ etiquetas.\r\n\ Permite\ al\ usuario\ crear\ y\ agregar\ etiquetas\ de\ tipo\ Com\u00FAn\ o\ Premium\ a\ un\ pedido,\r\n\ as\u00ED\ como\ visualizar\ el\ estado\ actual\ del\ mismo.\r\n\r\n\ @author\ Kruchowski,\ Juan\ Ignacio\r\n\ @version\ 1.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Punto\ de\ entrada\ principal\ de\ la\ aplicaci\u00F3n.\r\n\ Inicia\ un\ bucle\ de\ men\u00FA\ que\ permite\ al\ usuario\ interactuar\ con\ el\ sistema\r\n\ para\ crear\ etiquetas\ y\ gestionar\ un\ pedido.\r\n\r\n\ @param\ args\ Argumentos\ de\ la\ l\u00EDnea\ de\ comandos\ (no\ se\ utilizan).\r\n
+numComments=2

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=AdministracionGerencia
+comment0.text=\r\n\ Clase\ ejecutable\ para\ la\ administraci\u00F3n\ de\ una\ gerencia\ de\ alojamientos.\r\n\ Simula\ la\ creaci\u00F3n\ de\ un\ Hotel\ y\ una\ Caba\u00F1a,\ la\ asignaci\u00F3n\ de\ servicios\r\n\ y\ la\ posterior\ liquidaci\u00F3n\ de\ los\ costos\ a\ trav\u00E9s\ de\ una\ Gerencia.\r\n\r\n\ @author\ Kruchowski,\ Juan\ Ignacio\r\n\ @version\ 1.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Punto\ de\ entrada\ principal\ de\ la\ aplicaci\u00F3n.\r\n\ Crea\ instancias\ de\ Gerencia,\ Hotel\ y\ Caba\u00F1a,\ les\ asigna\ servicios\r\n\ y\ finalmente\ invoca\ la\ liquidaci\u00F3n\ para\ mostrar\ un\ reporte\ de\ costos.\r\n\r\n\ @param\ args\ Argumentos\ de\ la\ l\u00EDnea\ de\ comandos\ (no\ se\ utilizan).\r\n
+numComments=2

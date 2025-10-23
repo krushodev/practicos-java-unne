@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Exclusivo
+comment0.text=\r\n\ Representa\ un\ cargo\ docente\ de\ dedicaci\u00F3n\ exclusiva,\ extendiendo\ la\ clase\ Cargo.\r\n\ A\u00F1ade\ atributos\ para\ las\ horas\ dedicadas\ a\ investigaci\u00F3n\ y\ extensi\u00F3n.\r\n\r\n\ @author\ Kruchowski,\ Juan\ Ignacio\r\n\ @version\ 1.0\r\n
+comment1.params=p_nombreCargo\ p_sueldoBasico\ p_anioIngreso\ p_horasDeDocencia\ p_horasDeInvestigacion\ p_horasDeExtension
+comment1.target=Exclusivo(java.lang.String,\ double,\ int,\ int,\ int,\ int)
+comment1.text=\r\n\ Constructor\ para\ instanciar\ un\ cargo\ de\ dedicaci\u00F3n\ exclusiva.\r\n\ @param\ p_nombreCargo\ \ \ \ \ \ \ \ \ Denominaci\u00F3n\ del\ cargo.\r\n\ @param\ p_sueldoBasico\ \ \ \ \ \ \ \ Remuneraci\u00F3n\ b\u00E1sica\ del\ cargo.\r\n\ @param\ p_anioIngreso\ \ \ \ \ \ \ \ \ A\u00F1o\ de\ toma\ de\ posesi\u00F3n\ del\ cargo.\r\n\ @param\ p_horasDeDocencia\ \ \ \ \ Carga\ horaria\ semanal\ dedicada\ a\ docencia.\r\n\ @param\ p_horasDeInvestigacion\ Carga\ horaria\ semanal\ dedicada\ a\ investigaci\u00F3n.\r\n\ @param\ p_horasDeExtension\ \ \ \ Carga\ horaria\ semanal\ dedicada\ a\ extensi\u00F3n.\r\n
+comment2.params=p_horasDeInvestigacion
+comment2.target=void\ setHorasDeInvestigacion(int)
+comment2.text=Asigna\ las\ horas\ de\ investigaci\u00F3n.\ @param\ p_horasDeInvestigacion\ El\ n\u00FAmero\ de\ horas\ a\ asignar.
+comment3.params=p_horasDeExtension
+comment3.target=void\ setHorasDeExtension(int)
+comment3.text=Asigna\ las\ horas\ de\ extensi\u00F3n.\ @param\ p_horasDeExtension\ El\ n\u00FAmero\ de\ horas\ a\ asignar.
+comment4.params=
+comment4.target=int\ getHorasDeInvestigacion()
+comment4.text=@return\ Devuelve\ las\ horas\ de\ investigaci\u00F3n\ asignadas.
+comment5.params=
+comment5.target=int\ getHorasDeExtension()
+comment5.text=@return\ Devuelve\ las\ horas\ de\ extensi\u00F3n\ asignadas.
+comment6.params=
+comment6.target=void\ mostrarCargo()
+comment6.text=\r\n\ Imprime\ en\ consola\ un\ resumen\ completo\ del\ cargo,\ incluyendo\r\n\ la\ informaci\u00F3n\ del\ cargo\ base\ y\ las\ horas\ de\ investigaci\u00F3n\ y\ extensi\u00F3n.\r\n
+numComments=7

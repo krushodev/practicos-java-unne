@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Premium
+comment0.text=\r\n\ Representa\ una\ etiqueta\ de\ tipo\ premium.\r\n\ El\ precio\ de\ este\ tipo\ de\ etiqueta\ se\ ve\ afectado\ por\ la\ cantidad\ de\ colores\r\n\ utilizados,\ aplicando\ un\ recargo\ porcentual\ sobre\ el\ costo\ base.\r\n\r\n\ @author\ Kruchowski,\ Juan\ Ignacio\r\n\ @version\ 1.0\r\n
+comment1.params=p_costo\ p_colores
+comment1.target=Premium(double,\ int)
+comment1.text=\r\n\ Constructor\ para\ inicializar\ una\ etiqueta\ premium.\r\n\r\n\ @param\ p_costo\ \ \ Costo\ base\ por\ unidad.\r\n\ @param\ p_colores\ Cantidad\ de\ colores\ de\ la\ etiqueta.\r\n
+comment2.params=p_colores
+comment2.target=void\ setColores(int)
+comment2.text=\r\n\ Asigna\ la\ cantidad\ de\ colores\ de\ la\ etiqueta.\r\n\r\n\ @param\ p_colores\ N\u00FAmero\ de\ colores\ a\ asignar.\r\n
+comment3.params=
+comment3.target=int\ getColores()
+comment3.text=\r\n\ Devuelve\ la\ cantidad\ de\ colores\ de\ la\ etiqueta.\r\n\r\n\ @return\ El\ n\u00FAmero\ de\ colores.\r\n
+comment4.params=q
+comment4.target=double\ precio(int)
+comment4.text=\r\n\ Calcula\ el\ precio\ total\ para\ una\ cantidad\ `q`\ de\ etiquetas,\ sumando\r\n\ el\ recargo\ por\ colores\ al\ costo\ base\ antes\ de\ multiplicar.\r\n\r\n\ @param\ q\ Cantidad\ de\ etiquetas.\r\n\ @return\ El\ precio\ total\ calculado.\r\n
+comment5.params=
+comment5.target=double\ plus()
+comment5.text=\r\n\ Calcula\ el\ recargo\ porcentual\ a\ aplicar\ sobre\ el\ costo\ base,\ seg\u00FAn\ la\r\n\ cantidad\ de\ colores.\r\n\r\n\ @return\ El\ monto\ del\ recargo\ por\ colores.\r\n
+comment6.params=
+comment6.target=java.lang.String\ tipo()
+comment6.text=\r\n\ Devuelve\ el\ tipo\ de\ la\ etiqueta.\r\n\r\n\ @return\ La\ cadena\ "Premium".\r\n
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment7.text=\r\n\ Devuelve\ una\ representaci\u00F3n\ en\ cadena\ de\ la\ etiqueta,\ incluyendo\ la\ cantidad\ de\ colores.\r\n\r\n\ @return\ Una\ cadena\ formateada\ con\ la\ descripci\u00F3n\ de\ la\ etiqueta.\r\n
+numComments=8

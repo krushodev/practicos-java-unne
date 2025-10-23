@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=AdministracionZoo
+comment0.text=\r\n\ Clase\ ejecutable\ para\ la\ administraci\u00F3n\ del\ Zool\u00F3gico\ "El\ Carib\u00FA".\r\n\ Simula\ la\ creaci\u00F3n\ de\ visitantes\ y\ delegaciones,\ los\ registra\ y\ genera\r\n\ reportes\ de\ visitas\ y\ recaudaci\u00F3n.\r\n\r\n\ @author\ Kruchowski,\ Juan\ Ignacio\r\n\ @version\ 1.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Punto\ de\ entrada\ principal\ de\ la\ aplicaci\u00F3n\ del\ zool\u00F3gico.\r\n\ Crea\ instancias\ de\ Persona,\ Individuo\ y\ Delegacion,\ las\ agrega\ a\ un\ objeto\r\n\ Zoologico\ y\ luego\ imprime\ varios\ listados\ y\ el\ total\ de\ recaudaci\u00F3n.\r\n\r\n\ @param\ args\ Argumentos\ de\ la\ l\u00EDnea\ de\ comandos\ (no\ se\ utilizan).\r\n
+numComments=2

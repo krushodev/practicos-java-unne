@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Etiqueta
+comment0.text=\r\n\ Clase\ abstracta\ que\ representa\ una\ etiqueta\ gen\u00E9rica.\r\n\ Define\ la\ estructura\ base\ para\ distintos\ tipos\ de\ etiquetas,\ estableciendo\r\n\ un\ costo\ y\ un\ comportamiento\ com\u00FAn\ para\ el\ c\u00E1lculo\ de\ precios.\r\n\r\n\ @author\ Kruchowski,\ Juan\ Ignacio\r\n\ @version\ 1.0\r\n
+comment1.params=p_costo
+comment1.target=Etiqueta(double)
+comment1.text=\r\n\ Constructor\ para\ inicializar\ una\ etiqueta\ con\ su\ costo\ base.\r\n\r\n\ @param\ p_costo\ Costo\ base\ de\ la\ etiqueta.\r\n
+comment2.params=p_costo
+comment2.target=void\ setCosto(double)
+comment2.text=\r\n\ Asigna\ el\ costo\ base\ de\ la\ etiqueta.\r\n\r\n\ @param\ p_costo\ Costo\ a\ asignar.\r\n
+comment3.params=
+comment3.target=double\ getCosto()
+comment3.text=\r\n\ Devuelve\ el\ costo\ base\ de\ la\ etiqueta.\r\n\r\n\ @return\ El\ costo\ de\ la\ etiqueta.\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ Devuelve\ una\ representaci\u00F3n\ en\ cadena\ de\ la\ etiqueta,\ incluyendo\ su\ tipo\ y\ costo\ base.\r\n\r\n\ @return\ Una\ cadena\ formateada\ con\ la\ descripci\u00F3n\ de\ la\ etiqueta.\r\n
+comment5.params=q
+comment5.target=double\ precio(int)
+comment5.text=\r\n\ M\u00E9todo\ abstracto\ para\ calcular\ el\ precio\ total\ seg\u00FAn\ la\ cantidad\ de\ etiquetas.\r\n\r\n\ @param\ q\ Cantidad\ de\ etiquetas.\r\n\ @return\ El\ precio\ total\ calculado.\r\n
+comment6.params=
+comment6.target=java.lang.String\ tipo()
+comment6.text=\r\n\ M\u00E9todo\ abstracto\ que\ devuelve\ el\ tipo\ de\ etiqueta.\r\n\r\n\ @return\ Una\ cadena\ que\ identifica\ el\ tipo\ de\ etiqueta\ (ej.\ "Comun",\ "Premium").\r\n
+numComments=7

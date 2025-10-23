@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Empresa
+comment0.text=\r\n\ Clase\ ejecutable\ que\ simula\ una\ interfaz\ de\ consola\ para\ la\ gesti\u00F3n\r\n\ de\ Empleados,\ Jefes\ y\ Personas\ dentro\ de\ una\ empresa.\ Provee\ un\ men\u00FA\r\n\ para\ la\ creaci\u00F3n\ y\ visualizaci\u00F3n\ de\ registros.\r\n\r\n\ @author\ Kruchowski,\ Juan\ Ignacio\r\n\ @version\ 1.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Punto\ de\ entrada\ principal\ para\ la\ aplicaci\u00F3n\ de\ gesti\u00F3n.\r\n\ Gestiona\ la\ interacci\u00F3n\ con\ el\ usuario\ a\ trav\u00E9s\ de\ un\ men\u00FA\ de\ opciones\r\n\ para\ crear\ y\ listar\ objetos\ de\ tipo\ Empleado,\ Jefe\ (que\ es\ un\ Empleado)\ y\ Persona.\r\n\ *\ @param\ args\ Argumentos\ de\ la\ l\u00EDnea\ de\ comandos\ (no\ se\ utilizan).\r\n
+numComments=2

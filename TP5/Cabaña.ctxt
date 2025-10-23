@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Caba\u00F1a
+comment0.text=\r\n\ Representa\ una\ Caba\u00F1a,\ un\ tipo\ de\ Alojamiento\ que\ se\ caracteriza\ por\ tener\r\n\ un\ n\u00FAmero\ espec\u00EDfico\ de\ habitaciones,\ lo\ que\ influye\ en\ su\ costo\ final.\r\n\r\n\ @author\ Kruchowski,\ Juan\ Ignacio\r\n\ @version\ 1.0\r\n
+comment1.params=p_nombre\ p_precioBase\ p_diasAlquiler\ p_servicios\ p_nroHabitaciones
+comment1.target=Caba\u00F1a(java.lang.String,\ double,\ int,\ java.util.ArrayList,\ int)
+comment1.text=\r\n\ Constructor\ para\ inicializar\ una\ caba\u00F1a\ con\ servicios\ adicionales.\r\n\r\n\ @param\ p_nombre\ \ \ \ \ \ \ \ \ \ Nombre\ de\ la\ caba\u00F1a.\r\n\ @param\ p_precioBase\ \ \ \ \ \ Precio\ base\ por\ d\u00EDa.\r\n\ @param\ p_diasAlquiler\ \ \ \ Cantidad\ de\ d\u00EDas\ de\ alquiler.\r\n\ @param\ p_servicios\ \ \ \ \ \ \ Lista\ de\ servicios\ adicionales.\r\n\ @param\ p_nroHabitaciones\ N\u00FAmero\ de\ habitaciones.\r\n
+comment2.params=p_nombre\ p_precioBase\ p_diasAlquiler\ p_nroHabitaciones
+comment2.target=Caba\u00F1a(java.lang.String,\ double,\ int,\ int)
+comment2.text=\r\n\ Constructor\ para\ inicializar\ una\ caba\u00F1a\ sin\ servicios\ adicionales.\r\n\r\n\ @param\ p_nombre\ \ \ \ \ \ \ \ \ \ Nombre\ de\ la\ caba\u00F1a.\r\n\ @param\ p_precioBase\ \ \ \ \ \ Precio\ base\ por\ d\u00EDa.\r\n\ @param\ p_diasAlquiler\ \ \ \ Cantidad\ de\ d\u00EDas\ de\ alquiler.\r\n\ @param\ p_nroHabitaciones\ N\u00FAmero\ de\ habitaciones.\r\n
+comment3.params=p_nroHabitaciones
+comment3.target=void\ setNroHabitaciones(int)
+comment3.text=\r\n\ Asigna\ el\ n\u00FAmero\ de\ habitaciones\ de\ la\ caba\u00F1a.\r\n\r\n\ @param\ p_nroHabitaciones\ N\u00FAmero\ de\ habitaciones\ a\ asignar.\r\n
+comment4.params=
+comment4.target=int\ getNroHabitaciones()
+comment4.text=\r\n\ Devuelve\ el\ n\u00FAmero\ de\ habitaciones\ de\ la\ caba\u00F1a.\r\n\r\n\ @return\ El\ n\u00FAmero\ de\ habitaciones.\r\n
+comment5.params=
+comment5.target=double\ costo()
+comment5.text=\r\n\ Calcula\ el\ costo\ total\ del\ alojamiento,\ a\u00F1adiendo\ un\ cargo\ de\ $30\ por\r\n\ d\u00EDa\ y\ por\ cada\ habitaci\u00F3n.\r\n\r\n\ @return\ El\ costo\ total\ del\ alquiler\ de\ la\ caba\u00F1a.\r\n
+comment6.params=p_alojamiento
+comment6.target=int\ contar(java.lang.String)
+comment6.text=\r\n\ Verifica\ si\ el\ tipo\ de\ alojamiento\ proporcionado\ corresponde\ a\ "Cabana".\r\n\r\n\ @param\ p_alojamiento\ Cadena\ que\ representa\ el\ tipo\ de\ alojamiento\ a\ verificar.\r\n\ @return\ 1\ si\ es\ una\ caba\u00F1a,\ 0\ en\ caso\ contrario.\r\n
+comment7.params=
+comment7.target=void\ liquidar()
+comment7.text=\r\n\ Imprime\ en\ consola\ un\ resumen\ de\ la\ liquidaci\u00F3n\ de\ la\ caba\u00F1a,\ incluyendo\r\n\ el\ costo\ del\ alquiler,\ los\ servicios\ y\ el\ total\ a\ pagar.\r\n
+numComments=8

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Administracion
+comment0.text=\r\n\ Clase\ ejecutable\ para\ la\ administraci\u00F3n\ de\ figuras\ geom\u00E9tricas\ en\ un\ jard\u00EDn.\r\n\ Este\ programa\ crea\ diversas\ figuras,\ las\ agrupa\ en\ un\ objeto\ Jardin\ y\ calcula\r\n\ la\ cantidad\ de\ pintura\ necesaria\ para\ cubrirlas.\r\n\r\n\ @author\ Kruchowski,\ Juan\ Ignacio\r\n\ @version\ 1.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Punto\ de\ entrada\ principal\ de\ la\ aplicaci\u00F3n.\r\n\ Crea\ instancias\ de\ Cuadrado,\ Triangulo,\ Circulo\ y\ Elipse,\ las\ agrega\ a\ un\r\n\ Jard\u00EDn\ y\ finalmente\ imprime\ un\ reporte\ con\ los\ detalles\ de\ las\ figuras\ y\r\n\ los\ c\u00E1lculos\ de\ pintura.\r\n\r\n\ @param\ args\ Argumentos\ de\ la\ l\u00EDnea\ de\ comandos\ (no\ se\ utilizan).\r\n
+numComments=2

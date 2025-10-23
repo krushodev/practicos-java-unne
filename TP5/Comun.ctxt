@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Comun
+comment0.text=\r\n\ Representa\ una\ etiqueta\ de\ tipo\ com\u00FAn.\r\n\ Este\ tipo\ de\ etiqueta\ incluye\ un\ costo\ adicional\ fijo\ por\ dise\u00F1o\ ("plus")\ y\r\n\ aplica\ descuentos\ progresivos\ seg\u00FAn\ la\ cantidad\ solicitada.\r\n\r\n\ @author\ Kruchowski,\ Juan\ Ignacio\r\n\ @version\ 1.0\r\n
+comment1.params=p_costo\ p_plus
+comment1.target=Comun(double,\ double)
+comment1.text=\r\n\ Constructor\ para\ inicializar\ una\ etiqueta\ com\u00FAn\ con\ su\ costo\ base\ y\ un\r\n\ costo\ adicional\ por\ dise\u00F1o.\r\n\r\n\ @param\ p_costo\ Costo\ base\ por\ unidad.\r\n\ @param\ p_plus\ \ Costo\ adicional\ fijo\ por\ dise\u00F1o.\r\n
+comment2.params=p_plus
+comment2.target=void\ setPlus(double)
+comment2.text=\r\n\ Asigna\ el\ valor\ del\ costo\ adicional\ por\ dise\u00F1o.\r\n\r\n\ @param\ p_plus\ Costo\ adicional\ a\ asignar.\r\n
+comment3.params=
+comment3.target=double\ getPlus()
+comment3.text=\r\n\ Devuelve\ el\ valor\ del\ costo\ adicional\ por\ dise\u00F1o.\r\n\r\n\ @return\ El\ costo\ del\ plus\ de\ dise\u00F1o.\r\n
+comment4.params=q
+comment4.target=double\ precio(int)
+comment4.text=\r\n\ Calcula\ el\ precio\ total\ para\ una\ cantidad\ `q`\ de\ etiquetas,\ aplicando\r\n\ el\ descuento\ correspondiente\ y\ sumando\ el\ costo\ de\ dise\u00F1o.\r\n\r\n\ @param\ q\ Cantidad\ de\ etiquetas.\r\n\ @return\ El\ precio\ total\ calculado.\r\n
+comment5.params=q
+comment5.target=double\ descuento(int)
+comment5.text=\r\n\ Calcula\ el\ monto\ del\ descuento\ aplicable\ seg\u00FAn\ la\ cantidad\ de\ etiquetas.\r\n\r\n\ @param\ q\ Cantidad\ de\ etiquetas.\r\n\ @return\ El\ monto\ del\ descuento\ a\ aplicar.\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ Devuelve\ una\ representaci\u00F3n\ en\ cadena\ de\ la\ etiqueta,\ incluyendo\ el\ plus\ de\ dise\u00F1o.\r\n\r\n\ @return\ Una\ cadena\ formateada\ con\ la\ descripci\u00F3n\ de\ la\ etiqueta.\r\n
+comment7.params=
+comment7.target=java.lang.String\ tipo()
+comment7.text=\r\n\ Devuelve\ el\ tipo\ de\ la\ etiqueta.\r\n\r\n\ @return\ La\ cadena\ "Comun".\r\n
+numComments=8

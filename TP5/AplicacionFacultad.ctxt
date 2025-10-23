@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=AplicacionFacultad
+comment0.text=\r\n\ Clase\ ejecutable\ que\ simula\ una\ interfaz\ de\ consola\ para\ la\ gesti\u00F3n\ de\ una\ Facultad.\r\n\ Provee\ un\ men\u00FA\ para\ la\ creaci\u00F3n\ de\ profesores\ y\ cargos,\ as\u00ED\ como\ para\ la\r\n\ visualizaci\u00F3n\ de\ n\u00F3minas\ y\ listados\ detallados.\r\n\r\n\ @author\ Kruchowski,\ Juan\ Ignacio\r\n\ @version\ 1.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Punto\ de\ entrada\ principal\ para\ la\ aplicaci\u00F3n\ de\ gesti\u00F3n\ de\ la\ facultad.\r\n\ Gestiona\ la\ interacci\u00F3n\ con\ el\ usuario\ para\ crear\ una\ facultad,\r\n\ registrar\ profesores,\ cargos\ y\ mostrar\ informaci\u00F3n\ consolidada.\r\n\r\n\ @param\ args\ Argumentos\ de\ la\ l\u00EDnea\ de\ comandos\ (no\ se\ utilizan).\r\n
+numComments=2

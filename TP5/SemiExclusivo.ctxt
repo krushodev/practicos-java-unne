@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=SemiExclusivo
+comment0.text=\r\n\ Representa\ un\ cargo\ docente\ de\ dedicaci\u00F3n\ semiexclusiva,\ extendiendo\ la\ clase\ Cargo.\r\n\ A\u00F1ade\ atributos\ para\ las\ horas\ dedicadas\ a\ investigaci\u00F3n.\r\n\r\n\ @author\ Kruchowski,\ Juan\ Ignacio\r\n\ @version\ 1.0\r\n
+comment1.params=p_nombreCargo\ p_sueldoBasico\ p_anioIngreso\ p_horasDeDocencia\ p_horasDeInvestigacion
+comment1.target=SemiExclusivo(java.lang.String,\ double,\ int,\ int,\ int)
+comment1.text=\r\n\ Constructor\ para\ instanciar\ un\ cargo\ de\ dedicaci\u00F3n\ semiexclusiva.\r\n\ @param\ p_nombreCargo\ \ \ \ \ \ \ \ \ \ Denominaci\u00F3n\ del\ cargo.\r\n\ @param\ p_sueldoBasico\ \ \ \ \ \ \ \ \ Remuneraci\u00F3n\ b\u00E1sica\ del\ cargo.\r\n\ @param\ p_anioIngreso\ \ \ \ \ \ \ \ \ \ A\u00F1o\ de\ toma\ de\ posesi\u00F3n\ del\ cargo.\r\n\ @param\ p_horasDeDocencia\ \ \ \ \ \ Carga\ horaria\ semanal\ dedicada\ a\ docencia.\r\n\ @param\ p_horasDeInvestigacion\ Carga\ horaria\ semanal\ dedicada\ a\ investigaci\u00F3n.\r\n
+comment2.params=p_horasDeInvestigacion
+comment2.target=void\ setHorasDeInvestigacion(int)
+comment2.text=Asigna\ las\ horas\ de\ investigaci\u00F3n.\ @param\ p_horasDeInvestigacion\ El\ n\u00FAmero\ de\ horas\ a\ asignar.
+comment3.params=
+comment3.target=int\ getHorasDeInvestigacion()
+comment3.text=@return\ Devuelve\ las\ horas\ de\ investigaci\u00F3n\ asignadas.
+comment4.params=
+comment4.target=void\ mostrarCargo()
+comment4.text=\r\n\ Imprime\ en\ consola\ un\ resumen\ completo\ del\ cargo,\ incluyendo\r\n\ la\ informaci\u00F3n\ del\ cargo\ base\ y\ las\ horas\ de\ investigaci\u00F3n.\r\n
+numComments=5
